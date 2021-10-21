@@ -1,0 +1,1 @@
+# interface_for_library_database_mysql
